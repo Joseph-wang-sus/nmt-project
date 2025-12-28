@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+.env
+venv/
+.vscode/
+.DS_Store
+
+# Data and Models
+data/
+data_processed/
+checkpoints/
+runs/
+t5_result/
+batch_inference_outputs/
+
+# Logs and temporary files
+logs/
+*.log
+*.pt
+*.jsonl
+

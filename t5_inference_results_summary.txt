@@ -1,0 +1,4 @@
+Model: ./t5_result
+Test File: data/test.jsonl
+BLEU Score: 3.75
+Details: BLEU = 3.75 30.9/7.1/1.9/0.7 (BP = 0.920 ratio = 0.923 hyp_len = 6407 ref_len = 6940)

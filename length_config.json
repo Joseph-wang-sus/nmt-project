@@ -1,0 +1,6 @@
+{
+    "max_len_src": 64,
+    "max_len_tgt": 70,
+    "src_p95": 45,
+    "tgt_p95": 56
+}
